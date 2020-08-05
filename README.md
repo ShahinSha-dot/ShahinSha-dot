@@ -21,7 +21,7 @@
 <img align="left" alt="Shahin Sha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   
 <br />
-## I'm a Student and a developer!
+## I'm a Student and a developer!<br />
 - 🔭 I’m currently working on a Data Structures and Algorithms using Python<br />
 - 🌱 I’m currently learning Python,MongoDB, and Django<br />
 - 👯 I’m looking to collaborate on projects based on Django and Python<br />
