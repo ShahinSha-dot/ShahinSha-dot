@@ -1,37 +1,19 @@
-### Hi there 👋, I am Shahin Sha 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/ShahinSha-dot)<br />
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://github.com/ShahinSha-dot)<br />
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ShahinSha-dot)<br />
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/ShahinSha-dot)<br />
----
+# Hi there 👋
+## _<br>My self <span style="background-color:blue;">Shahin Sha</span>, a high school student with an intermediate level knowledge in python and and web development and desire to gain more knowledge different programming language</br>_
 
-<!--
-**ShahinSha-dot/ShahinSha-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-##Here are some ideas to get you started:
-
-- 🔭 I’m currently working Data Structures and Algorithms using Python
-- 🌱 I’m currently learning Python,MongoDB, and Django
-- 👯 I’m looking to collaborate on projects based on Django and Python
-- 💬 Ask me about Python,Web Automation,Web development,MongoDb etc
-- 📫 How to reach me: neoblaze24@gmail.com 
+ #### 😎 Currently doing a spotify-downloader <a href="">visit</a>.😀<br>
+ #### 👬 Would love to have collab in 👆 project,Contact me.
+ #### 🌱 I’m currently learning Django and flask Stack<br>
+ #### 👬 Like to collaborate on website projects using Django and Flask<br>
+ #### 💬 Ask me about Python,Html,Css,Django,Flask and anyother python based things
+      
+ 
+  [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahin-sha-9510461b0/)
+  [![](https://img.shields.io/badge/.-Gmail-Red?style=for-the-badge&logo=gmail)](mailto:neoblaze24@gmail.com)
 -->
 
-### Connect with me:
-<img align="left" alt="ShahinSha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Shahin Sha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<br />
----
-  
-<br />
-## I'm a Student and a developer!<br />
-- 🔭 I’m currently working on a Data Structures and Algorithms using Python<br />
-- 🌱 I’m currently learning Python,MongoDB, and Django<br />
-- 👯 I’m looking to collaborate on projects based on Django and Python<br />
----<br />
-
 ### Languages and Tools:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -45,5 +27,5 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br />
 
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinsha-dot&&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=151515&bg_color=ffffff)](https://github.com/shahinsha-dot/)
 <img align="left" alt="ShahinSha-dot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShahinSha-dot&show_icons=true&hide_border=true" />
