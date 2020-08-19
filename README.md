@@ -1,5 +1,5 @@
 # Hi there 👋
-## _<br>My self <span style="background-color:blue;">Shahin Sha</span>, a high school student with an intermediate knowledge in python and web development and desire to gain more knowledge about different programming language</br>_
+## _<br>Myself <span style="background-color:blue;">Shahin Sha</span>, a high school student with an intermediate knowledge in python and web development and desire to gain more knowledge about different programming language</br>_
 
  #### 😎 Currently doing a spotify-downloader <a href="">visit</a>.😀<br>
  #### 👬 Would love to have collab in 👆 project,Contact me.
