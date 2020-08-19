@@ -1,5 +1,5 @@
 # Hi there 👋
-## _<br>My self <span style="background-color:blue;">Shahin Sha</span>, a high school student with an intermediate level knowledge in python and and web development and desire to gain more knowledge different programming language</br>_
+## _<br>My self <span style="background-color:blue;">Shahin Sha</span>, a high school student with an intermediate knowledge in python and web development and desire to gain more knowledge about different programming language</br>_
 
  #### 😎 Currently doing a spotify-downloader <a href="">visit</a>.😀<br>
  #### 👬 Would love to have collab in 👆 project,Contact me.
@@ -10,7 +10,6 @@
  
   [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahin-sha-9510461b0/)
   [![](https://img.shields.io/badge/.-Gmail-Red?style=for-the-badge&logo=gmail)](mailto:neoblaze24@gmail.com)
--->
 
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
